@@ -1,0 +1,58 @@
+.image1 {
+    border-radius: 50%;
+    width: 600px;
+    height: 600px;
+    position: relative;
+    top: 50px;
+}
+
+.Jname {
+    position: relative;
+    top: -500px;
+    left: 800px;
+    font-size: 100px;
+
+    border-bottom: 5px solid orange;
+
+}
+
+.Ename {
+    position: relative;
+    top: -500px;
+    left: 800px;
+    font-size: 50px;
+}
+
+li {
+    position: relative;
+    top: -500px;
+    left: 800px;
+
+}
+
+.img2 {
+
+    float: left;
+
+    width: 30px;
+    height: 30px;
+
+}
+
+.img3 {
+    width: 30px;
+    height: 30px;
+}
+
+.link1 {
+    font-size: 28px;
+}
+
+.link2 {
+    font-size: 28px;
+
+}
+
+p {
+    margin-bottom: 50px;
+}
